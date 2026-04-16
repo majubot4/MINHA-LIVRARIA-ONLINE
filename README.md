@@ -132,5 +132,5 @@ Este projeto está sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Seu Nome**
-Entre em contato: [seu-email@email.com](mailto:seu-email@email.com)
+Desenvolvido por **Maria Júlia**
+Entre em contato: [campos.maria@escolar.ifrn.edu.br](mailto:campos.maria@escolar.ifrn.edu.br)
