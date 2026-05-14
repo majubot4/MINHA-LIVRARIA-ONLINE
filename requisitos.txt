@@ -8,4 +8,8 @@ RF03 — O sistema deve permitir a busca de livros por nome ou autor.
 
 RF04 — O sistema deve possuir um carrinho de compras para adicionar e remover livros antes da finalização do pedido.
 
+<<<<<<< HEAD
 RF05 - O sistema deve calcular frete via CEP.
+=======
+RF05 - O sistema deve aceitar PIX
+>>>>>>> 1afbd47fe22d8fde422e4cdab599e5fcf3b353b9
