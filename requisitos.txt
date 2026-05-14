@@ -7,3 +7,5 @@ RF02 — O sistema deve exibir uma lista de livros com informações como títul
 RF03 — O sistema deve permitir a busca de livros por nome ou autor.
 
 RF04 — O sistema deve possuir um carrinho de compras para adicionar e remover livros antes da finalização do pedido.
+
+RF05 - O sistema deve aceitar PIX
