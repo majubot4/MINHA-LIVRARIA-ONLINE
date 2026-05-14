@@ -1,0 +1,9 @@
+REQUISITOS DO SISTEMA — LIVRARIA ONLINE
+
+RF01 — O sistema deve permitir o cadastro e login de usuários.
+
+RF02 — O sistema deve exibir uma lista de livros com informações como título, autor, preço e descrição.
+
+RF03 — O sistema deve permitir a busca de livros por nome ou autor.
+
+RF04 — O sistema deve possuir um carrinho de compras para adicionar e remover livros antes da finalização do pedido.
